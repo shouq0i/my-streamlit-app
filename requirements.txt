@@ -1,0 +1,7 @@
+streamlit
+streamlit-authenticator
+torch
+pandas
+opencv-python
+pytesseract
+Pillow
